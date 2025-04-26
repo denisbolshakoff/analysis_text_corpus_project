@@ -5,7 +5,8 @@
 Проект по программной обработке естественного языка с целью получения различий научных текстов пригодных для их кластеризации. Решались две кластеризационные задачи: пригодность к публикации и определение похожести текстов для выявления рецензента.
 
 ## Лицензия
-![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)Этот проект распространяется под лицензией [CC BY-NC](https://creativecommons.org/licenses/by-nc/4.0/) (Creative Commons Attribution-NonCommercial).
+![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)
+Этот проект распространяется под лицензией [CC BY-NC](https://creativecommons.org/licenses/by-nc/4.0/) (Creative Commons Attribution-NonCommercial).
 
 ## Цели проекта
 На основании сходств и различий поступающего в научный журнал текста в научном стиле и существующего корпуса опубликованных в журнале статей и неопубликованных рукописей оценить:
